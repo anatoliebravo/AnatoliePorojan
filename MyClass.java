@@ -1,5 +1,9 @@
 public class MyClass{
 		public static void main(String [] args){
-				System.out.println("Hello Tekwill 2022");
+			int x=12;
+			while (x<100) {
+				System.out.println("Java rocks!");
+				x++;
 		}
+}
 }
